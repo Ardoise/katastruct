@@ -1,0 +1,2 @@
+# katastruct
+Katascript Structure
